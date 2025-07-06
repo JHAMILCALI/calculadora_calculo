@@ -1,6 +1,7 @@
 # 🧮 Calculadora de Cálculo Integral con Paso a Paso
 
 Este proyecto es una aplicación interactiva creada con **Streamlit** que permite a los usuarios calcular integrales definidas e indefinidas **paso a paso**, visualizando además la función y el área bajo la curva mediante **GeoGebra** embebido.
+## [👉PROBAR LA CALCULADORA DE CALCAULO](https://github.com/JHAMILCALI)
 
 ## 🚀 Funcionalidades
 
@@ -33,4 +34,23 @@ Activa tu entorno virtual (si no tienes uno, créalo con python -m venv venv):
 ```bash
 .\venv\Scripts\Activate.ps1  # En Windows
 source venv/bin/activate  # En Linux/macOS
+```
+Luego ejecuta la app con:
+```bash
+streamlit run app.py
+```
+## 📸 Capturas de Pantalla
+Entrada
+![alt text](img/image.png)
+Resultado paso a paso
+![alt text](img/image2.png)
+Gráfica interactiva
+![alt text](img/image3.png)
+## 🛠️ Tecnologías utilizadas
+```
+SymPy
+
+GeoGebra Embed
+
+NumPy
 ```
