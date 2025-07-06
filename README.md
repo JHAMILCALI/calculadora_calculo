@@ -1,7 +1,7 @@
 # 🧮 Calculadora de Cálculo Integral con Paso a Paso
 
 Este proyecto es una aplicación interactiva creada con **Streamlit** que permite a los usuarios calcular integrales definidas e indefinidas **paso a paso**, visualizando además la función y el área bajo la curva mediante **GeoGebra** embebido.
-## [👉PROBAR LA CALCULADORA DE CALCAULO](https://github.com/JHAMILCALI)
+## [👉PROBAR LA CALCULADORA DE CALCAULO](https://calculadoracalculo.streamlit.app/)
 
 ## 🚀 Funcionalidades
 
